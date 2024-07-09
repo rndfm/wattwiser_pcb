@@ -1,0 +1,18 @@
+.IRM-05-5 :1 ;5W Single Output Encapsulated Type
+IRM055
+*STM PS
+*NGS
+*PLB 1="AC/L" 2="-V" 3="+V" 4="AC/N"
+*MXP 4
+*DFN IRM-05-5
+~!Manufacturer_Name (Mean Well)
+~!Manufacturer_Part_Number (IRM-05-5)
+~!Mouser Part Number (709-IRM05-5)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/MEAN-WELL/IRM-05-5?qs=WkdRfq4wf1OdYoHS8Am9VA%3D%3D)
+~!Arrow Part Number (IRM-05-5)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/irm-05-5/mean-well-enterprises?region=europe)
+~!Link Datasheet (https://www.mouser.fr/datasheet/2/260/r1936_3-1109422.pdf)
+~!Height (21.5mm)
+~!3D_Model (IRM-05-5)
+IRM-05-5
+1.1!U 2.1!U 3.1!U 4.1!U 

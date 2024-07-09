@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IRM_05_5'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Mean Well", "IRM-05-5" (!) = "", "IRM055", "Other", "709-IRM05-5", "https://www.mouser.co.uk/ProductDetail/MEAN-WELL/IRM-05-5?qs=WkdRfq4wf1OdYoHS8Am9VA%3D%3D", "IRM-05-5", "https://www.arrow.com/en/products/irm-05-5/mean-well-enterprises?region=europe", "5W Single Output Encapsulated Type", "https://www.mouser.fr/datasheet/2/260/r1936_3-1109422.pdf", "21.5 mm"
+END_PART
+
+END.

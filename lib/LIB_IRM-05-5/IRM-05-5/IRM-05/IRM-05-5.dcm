@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRM-05-5
+D 5W Single Output Encapsulated Type
+K
+F https://www.mouser.fr/datasheet/2/260/r1936_3-1109422.pdf
+$ENDCMP
+#
+#End Doc Library
